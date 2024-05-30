@@ -1,6 +1,12 @@
 *{
     background-color: black;
 }
+.brand{
+    margin-top: 0.1px;
+    padding: 0;
+    background-color: #2d2d2d;
+    font-size: 0.9rem;
+}
 .btn-operator{
     background-color: #ccc;
     font-weight: 800;
